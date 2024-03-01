@@ -9,24 +9,6 @@
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.statically.io/gh/gudh/ihover/gh-pages/dist/styles/main.css">
     <style>
-        body {
-            zoom: .25;
-        }
-
-        @media only screen and (min-width: 460px) {
-            body {
-                zoom: .58;
-            }
-        }
-
-        td {
-            padding-bottom: 20px;
-        }
-
-        td:not(:last-child) {
-            padding-right: 20px;
-        }
-
         .ih-item.square.effect6 .info h3 {
             font-size: 2em;
         }
@@ -34,6 +16,37 @@
         .ih-item.square.effect6 .info p {
             font-size: 1.4em;
             font-style: normal;
+        }
+
+
+
+        @media only screen and (max-width: 560px) {
+            body {
+                zoom: .9;
+            }
+
+            table,
+            tbody,
+            tr,
+            td {
+                display: block;
+            }
+
+        }
+
+        @media only screen and (min-width: 560px) {
+            body {
+                zoom: .58;
+            }
+
+            td {
+                padding-bottom: 20px;
+            }
+
+            td:not(:last-child) {
+                padding-right: 20px;
+            }
+
         }
     </style>
 </head>
