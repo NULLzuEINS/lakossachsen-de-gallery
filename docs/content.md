@@ -119,22 +119,27 @@ Am 29.05.2024 findet der Aktionstag „Kindertagespflege? Selbstverständlich!�
 ![](../images/20.png)
 
 Im Alter von 0-3 Jahren werden wichtige Grundsteine für die Sprachentwicklung gelegt.
-Weiterbildung Kindertagespflegepersonen besuchen regelmäßig Fort- und Weiterbildungen.
+
+## Weiterbildung
+
+![](../images/21.png)
+
+Kindertagespflegepersonen besuchen regelmäßig Fort- und Weiterbildungen.
 
 ## Platz für viele Worte
 
-![](../images/21.png)
+![](../images/22.png)
 
 Je kleiner die Gruppe, desto mehr Möglichkeiten haben die Kinder, zu Wort zu kommen und ihre sprachlichen Fähigkeiten zu erproben.
 
 ## Sprachanregende Aktivitäten in der KTP
 
-![](../images/22.png)
+![](../images/23.png)
 
 Kindertagespflegestellen sind Orte, an denen täglich sprachanregende Aktivitäten, wie beispielsweise dialogische Bilderbuchbetrachtungen, Durchführung von Aktionstabletts oder Geschichtensäckchen stattfinden können.
 
 ## LakoS KTP
 
-![](../images/23.png)
+![](../images/24.png)
 
 Seit dem 01.10.2023 gibt es im LakoS den Arbeitsschwerpunkt Kindertagespflege.
